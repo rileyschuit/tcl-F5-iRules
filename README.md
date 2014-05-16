@@ -1,1 +1,1 @@
-Repo to archive iRUles to be used on bigips
+Repo to archive iRules to be used on bigips
